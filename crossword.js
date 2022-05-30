@@ -362,7 +362,7 @@ function Crossword(words_in, clues_in){
 }
 
 var CrosswordUtils = {
-    PATH_TO_PNGS_OF_NUMBERS : "assets/numbers/",
+    PATH_TO_PNGS_OF_NUMBERS : "/numbers/",
 
     toHtml : function(grid, show_answers){
         if(grid == null) return;
