@@ -2,7 +2,7 @@
 Sample project for crossword and d3 wordcloud 
 
 # Crossword Via CDN
-https://cdn.jsdelivr.net/gh/superdiazzz/Crossword@v0.0.4/crossword.js
+https://cdn.jsdelivr.net/gh/superdiazzz/Crossword@v0.1.0/crossword.js
 
 # Wordcloud Via CDN
 
