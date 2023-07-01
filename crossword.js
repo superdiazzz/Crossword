@@ -389,7 +389,7 @@ var CrosswordUtils = {
                     html.push("<td class='" + css_class + "' title='" + r + ", " + c + "' id='pos"+ r + "," + c +  "' style=\"background-repeat: no-repeat;  background-image:url('" + img_url + "')\">");
                     label++;			
                 } else {
-                    html.push("<td class='" + css_class + "' title='" + r + ", " + c + "'>");					
+                    html.push("<td class='" + css_class + "' title='" + r + ", " + c + "' id='pos"+ r + "," + c + "'>");					
                 }
 
                 if(show_answers) {
