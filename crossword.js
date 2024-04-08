@@ -380,7 +380,7 @@ var CrosswordUtils = {
                     var css_class = "no-border";
                 } else {
                     var char = cell['char'];
-                    var css_class = "";
+                    var css_class = "bordered";
                     var is_start_of_word = (cell['across'] && cell['across']['is_start_of_word']) || (cell['down'] && cell['down']['is_start_of_word']);
                 }
 
